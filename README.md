@@ -20,7 +20,8 @@
 
 - 👩‍💻 My Adventure in
  
-     Full Stack Developer Intern at Luminar Technolab, Kochi. Worked on creating responsive user interfaces with React.js, building RESTful APIs using Node.js and Express.js, managing databases with MongoDB, and deploying applications on cloud platforms.
+     Full Stack Developer Intern at Luminar Technolab, Kochi.  Worked on creating responsive user interfaces with React.js, building RESTful APIs using Node.js and Express.js, managing databases with MongoDB, and
+     deploying applications on cloud platforms.
 
 - 📫 How to reach me
   
